@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+Disallow: /about/
+Disallow: /analytics.svelte
+Disallow: /?s=
+Disallow: /*?*
+Disallow: /*.php$
+Disallow: /*.ts$
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.json
+Disallow: /*.xml$
+Disallow: /*.xhtml$
+Disallow: /*.doc$
+Disallow: /*.txt$
